@@ -1,0 +1,22 @@
+{
+  "name": "node-for-jenkin-testing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/georgekuttyjosephgkj/nodeAppForJenkin.git"
+  },
+  "author": "georgekutty",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/georgekuttyjosephgkj/nodeAppForJenkin/issues"
+  },
+  "homepage": "https://github.com/georgekuttyjosephgkj/nodeAppForJenkin#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
